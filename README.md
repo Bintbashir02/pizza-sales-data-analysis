@@ -22,7 +22,3 @@ The analysis provides insights that can help improve inventory planning and sale
 
 ## Author
 Farida Bashir
-
-sql
-Copy code
-Update README with project o
